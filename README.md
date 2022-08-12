@@ -1,4 +1,4 @@
-# Informes-y-busquedas
+# Informes-y-busquedas Java +JDBS
 -Formulario en Java el cual me permite hacer un primer informe a travez de una conexión con la base de datos "usuarios" obtener el numero de personas por pais
 y hacer un gráfico de tipo pastel representando los datos.
 -Un segundo informe me permite filtrar la base de datos de usuarios por los nombres que coincidan con una serie 
